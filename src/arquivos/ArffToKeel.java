@@ -16,8 +16,7 @@ public class ArffToKeel {
 	private String test_out;
 	private String result;
 	public ArffToKeel(String entrada) {
-		//dir =System.getProperty("user.dir");
-		dir = "D:/Downloads";
+		dir =System.getProperty("user.dir");
 		this.entrada = entrada;
 		train_in = dir + "/train_in.dat";
 		test_in = dir + "/test_in.dat";

@@ -48,11 +48,4 @@ public class ResultsKell {
 		return features;
 		
 	}
-	/*public static void main(String[] args) {
-		ResultsKell rk = new ResultsKell("D:/Downloads/result.txt");
-		int[] a = rk.atributosSelecionados();
-		for (int i : a) {
-			System.out.println(i);
-		}
-	}*/
 }
