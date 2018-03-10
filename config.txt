@@ -1,0 +1,5 @@
+algorithm = FOCUS
+inputdata = "D:/Downloads/train_in.dat" "D:/Downloads/test_in.dat"
+outputdata = "D:/Downloads/train_out.dat" "D:/Downloads/test_out.dat" "D:/Downloads/result.txt"
+paramKNN = 0
+inconAllow = 1.0
